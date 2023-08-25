@@ -1,7 +1,4 @@
 # Blog work
-
-Website - https://blog-site-by-vihan.herokuapp.com/
-
 # _About_
 
 A blog website made using MERN stack.
